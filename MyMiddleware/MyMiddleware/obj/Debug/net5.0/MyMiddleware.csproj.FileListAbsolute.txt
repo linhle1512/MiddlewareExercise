@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\MyMiddleware\MyMiddleware\obj\Debug\net5.0\MyMiddleware.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\MyMiddleware\MyMiddleware\obj\Debug\net5.0\MyMiddleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\MyMiddleware\MyMiddleware\obj\Debug\net5.0\MyMiddleware.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\MyMiddleware\MyMiddleware\obj\Debug\net5.0\MyMiddleware.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\MyMiddleware\MyMiddleware\obj\Debug\net5.0\MyMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\MyMiddleware\MyMiddleware\obj\Debug\net5.0\MyMiddleware.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\MyMiddleware\MyMiddleware\obj\Debug\net5.0\MyMiddleware.RazorAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\MyMiddleware\MyMiddleware\obj\Debug\net5.0\MyMiddleware.RazorAssemblyInfo.cs
