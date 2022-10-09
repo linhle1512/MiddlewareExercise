@@ -6,11 +6,10 @@ using System.Collections.Generic;
 
 namespace MyMiddleware.Middlewares
 {
-    public class MiddlewareExtensions
-    {
-        public static IApplicationBuilder UseLogginMiddleware(this IApplicationBuilder builder)
+    public static class MiddlewareExtensions
+    {       public static IApplicationBuilder UseMiddleware(this IApplicationBuilder builder)
         {
-            return builder.UseLogginMiddleware<LogginMiddleware>();
+            return builder.UseMiddleware<LogginMiddleware>();
         }
     }
 }

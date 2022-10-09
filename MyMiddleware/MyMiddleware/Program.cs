@@ -10,7 +10,6 @@ namespace MyMiddleware
         {
             var builder = CreateHostBuilder(args);
             var app = builder.Build();
-            app.UseMiddleware();
             app.Run();
         }
 

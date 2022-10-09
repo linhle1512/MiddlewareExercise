@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using MyMiddleware.Middlewares;
 
 namespace MyMiddleware
 {
@@ -47,6 +48,8 @@ namespace MyMiddleware
             {
                 endpoints.MapRazorPages();
             });
+
+            app.UseMiddleware();
         }
     }
 }
